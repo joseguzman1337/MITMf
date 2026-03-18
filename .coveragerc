@@ -1,8 +1,0 @@
-[run]
-branch = True
-
-[report]
-include = *core*, *libs*, *plugins*
-exclude_lines =
-    pragma: nocover
-    pragma: no cover
